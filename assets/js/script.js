@@ -25,6 +25,8 @@ const modalText = document.querySelector("[data-modal-text]");
 
 
 
+
+
 // custom select variables
 const select = document.querySelector("[data-select]");
 const selectItems = document.querySelectorAll("[data-select-item]");
